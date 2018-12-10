@@ -5,11 +5,11 @@ function loadData(department){
     $.getJSON("./example.json", function(data){
        $("#art_table tr").remove();// clean so can add data
        $('#art_table').append("<tr style=\"border-width: 1px;border-color: lightgray;\">\
-                         <th>image</th>\
-                        <th>title</th>\
-                        <th>tombstone</th>\
-                        <th>department</th>\
-                        <th>creators</th>\
+                         <th>Image</th>\
+                        <th>Title</th>\
+                        <th>Tombstone</th>\
+                        <th>Department</th>\
+                        <th>Creators</th>\
                    </tr>");//headers
        //$('#art_table').css({borderColor: 'lightgray', borderWidth: '1px'});
         var art_data = '';
