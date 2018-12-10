@@ -4,6 +4,8 @@ Languages:Python and JavaScript
 
 Database :SQLite
 
+Editor: Visual Studio Code or PyCharm will do the work.
+
 How to run this program:
 
 -Clone the repository to your workspace folder.
