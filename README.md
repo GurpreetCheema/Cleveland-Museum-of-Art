@@ -1,12 +1,12 @@
 # Cleveland-Museum-of-Art
 *******************************************
-Languages:Python and JavaScript
+Languages: Python and JavaScript
 
-Database :SQLite
+Database : SQLite
 
 Editor: Visual Studio Code or PyCharm will do the work.
 
-Visual Studio Code: Add Python Extension, which should be the first link when searching for python. Python 
+Visual Studio Code: Add Python Extension, which should be the first link when searching for python. 
 
 How to run this program:
 
