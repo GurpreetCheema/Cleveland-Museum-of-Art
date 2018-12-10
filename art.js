@@ -26,7 +26,7 @@ function loadData(department){
                 art_data += '<td>' + value.department+'</td>';
                 art_data += '<td>';
                 $.each(value.creators, function(key, value){
-                    art_data += value.role+': ' + value.description+',\n';
+                    art_data += value.role+': ' + value.description+'\n';//removed a , from here
                     });
                 art_data += '</td>';
             }
