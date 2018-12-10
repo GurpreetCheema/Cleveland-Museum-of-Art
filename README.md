@@ -8,7 +8,7 @@ How to run this program:
 
 -Clone the repository to your workspace folder.
 
--Open Index.html in firefox or Chrome.
+-Open Index.html in Firefox.
 
 -If want to run the database or make few changes, just delete the example.json and department.json and run art.py. 
 
