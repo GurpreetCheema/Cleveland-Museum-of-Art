@@ -10,8 +10,8 @@ How to run this program:
 
 -Open Index.html in Firefox.
 
--If want to run the database or make few changes, just delete the example.json and department.json and run art.py. 
+-If want to run the database or make few changes, run art.py. 
 
 -Right click and pick “Run Python File in Terminal”.
 
--Running art.py will create department.json and example.json files in the folder which are needed to see Data on the website.
+-Running art.py will create or overwrite department.json and example.json files in the folder which are needed to see Data on the website.
